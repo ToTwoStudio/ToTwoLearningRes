@@ -1,3 +1,4 @@
+
 <ol style="list-style: none;">
 				<li><h4>准备好 JDK安装包</h4></li>
 				<img src="img/1.png" />
@@ -9,7 +10,7 @@
 					<img src="img/4.png" />
 				<li><h4>不要更改路径，点击“下一步”。等待安装。安装完成后点击“关闭”。</h4></li>
 				<img src="img/5.png" />
-				<li><h1>配置Java运行环境。</h1></li>
+				<li><h4>配置Java运行环境。</h4></li>
 				<li><h4>返回桌面    右击“计算机”。点击“属性”。</h4></li>
 				<img src="img/6.png" />
 				<li><h4>点击“高级系统设置”。</h4></li>
@@ -23,8 +24,7 @@
 				<img src="img/10.png" />
 				<li><h4>.输入“java -version”。按一下“回车键”（Enter） 。出现一下文字说明安装成功。如果出现其他文字。说明安装失败，你可能需要从第23步重新配置。</h4></li>
 				<img src="img/11.png" />
-				<li><h1>安装成功</h4></li>
+				<li><h4>安装成功</h4></li>
 				<li><h5 style="margin-top: 5rem;">由俊峰提供技术支持 - ToTwoStudio</h4></li>
 
-		
-			</ol>
+</ol>

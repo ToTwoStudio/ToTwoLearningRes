@@ -1,4 +1,6 @@
-
+<nav>
+	<h2 class="text-center"><strong >Java环境配置</strong></h2>
+</nav>
 <ol style="list-style: none;">
 				<li><h4>准备好 JDK安装包</h4></li>
 				<img src="img/1.png" />

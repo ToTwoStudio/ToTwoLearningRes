@@ -1,7 +1,7 @@
 <nav>
-	<h2 class="text-center"><strong >Java环境配置</strong></h2>
+	<h1 class="text-center"><strong >Java环境配置</strong></h2>
 </nav>
-<ol style="list-style: none;">
+<ol>
 				<li><h4>准备好 JDK安装包</h4></li>
 				<img src="img/1.png" />
 				<li><h4>双击左键,点击下一步</h4></li>
@@ -12,7 +12,11 @@
 					<img src="img/4.png" />
 				<li><h4>不要更改路径，点击“下一步”。等待安装。安装完成后点击“关闭”。</h4></li>
 				<img src="img/5.png" />
-				<li><h4>配置Java运行环境。</h4></li>
+</ol>
+<nav>
+	<h1 class="text-center"><strong >配置Java运行环境。</strong></h2>
+</nav>
+<ol>
 				<li><h4>返回桌面    右击“计算机”。点击“属性”。</h4></li>
 				<img src="img/6.png" />
 				<li><h4>点击“高级系统设置”。</h4></li>

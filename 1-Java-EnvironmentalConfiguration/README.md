@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title>Java环境配置 - ToTwoStudio</title>
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		<style>
-			h1{
-				margin-top: 5rem;
-			}
-			h4{
-				margin-top: 3rem;
-				margin-left: 1rem;
-				line-height:25px;
-			}
-			h5{
-				margin: 1rem;
-				color: gray;
-			}
-			text{
-				background-color: beige;
-			}
-		</style>
-	</head>
-	<body>
-	   	<div class="container">
-		<!--上导航栏-->
-		<nav class="nav navbar navbar-fixed-top navbar-default">
-				<h3 class="text-center"><strong >Java环境配置</strong></h3>
-		</nav>
-		<div style="height: 60px;"></div>
-
-		<div class="col-xs-12">
-			
-		<div class="row text-center">
-			<ol style="list-style: none;">
+<ol style="list-style: none;">
 				<li><h4>准备好 JDK安装包</h4></li>
 				<img src="img/1.png" />
 				<li><h4>双击左键,点击下一步</h4></li>
@@ -63,15 +28,3 @@
 
 		
 			</ol>
-		</div>
-		</div>
-
-		
-		
-		
-		
-	</div>
-
-		
-	</body>
-</html>
